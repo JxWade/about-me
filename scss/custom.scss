@@ -120,7 +120,7 @@ body{
 	.fade3{
 		a:hover,
 		&.hover a{
-			color: #c0392b;
+			color: #ec7d40;
 		}
 	}
 	.fade4{
@@ -306,7 +306,7 @@ body{
 			margin-left: 10%;
 		}
 		.my-photo{
-			width: 335px;
+			//width: 335px;
 			height: 540px;
 		}
 		.right .fade4{
@@ -424,7 +424,7 @@ body{
 	}
 }
 .section-contact{
-	background: #c0392b;
+	background: #ec7d40;
 	color: #dadada;
 	@include link(#fff,#dadada);
 	.contact-content{
